@@ -7,7 +7,7 @@ from app.database.requests import add_error, add_comments
 url_gpt = "https://api.openai.com/v1/chat/completions"
 head_gpt = {
     "Content-Type": "application/json",
-    "Authorization": "Bearer"
+    "Authorization": "Bearer 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"
 }
 
 
